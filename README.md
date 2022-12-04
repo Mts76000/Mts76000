@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm $Mts_76_</h1>
 <h3 align="center">A passionate developer from France</h3>
 
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=2spy&label=Profile%20views&color=0e75b6&style=flat"
+    alt="2spy"/> 
+  </p>
+
+
 - 📫 How to reach me :   **lamottemathis@gmail.com**
 
 - ⚡ My discord :  **https://discord.gg/jWE7rF7QpA**
