@@ -9,7 +9,7 @@
 
 - 📫 How to reach me : **lamottemathis@gmail.com**
 
-- ⚡ My discord : **https://discord.gg/jWE7rF7QpA**
+- ⚡ My discord : target=_blank **https://discord.gg/jWE7rF7QpA**
 
 <p align="center">
     <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
