@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm $Mts_76_</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 📫 How to reach me **lamottemathis@gmail.com**
+- 📫 How to reach me :   **lamottemathis@gmail.com**
 
-- ⚡ My discord **https://discord.gg/jWE7rF7QpA**
+- ⚡ My discord :  **https://discord.gg/jWE7rF7QpA**
 
+<p align="center">
+    <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+</p>
 
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
