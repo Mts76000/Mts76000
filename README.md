@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm $Mts_76_</h1>
 <h3 align="center">A passionate developer from France</h3>
 <br>
-<p target=_blank align="left"> <img src="https://komarev.com/ghpvc/?username=mts76000&label=Profile%20views&color=27333a&style=flat" alt="mts76000" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=mts76000&label=Profile%20views&color=27333a&style=flat" alt="mts76000" /> </p>
 
 
 - 🌱 I am currently learning the basics
