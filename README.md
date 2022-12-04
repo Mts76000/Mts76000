@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm $Mts_76_</h1>
 <h3 align="center">A passionate developer from France</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mts76000&label=Profile%20views&color=27333a&style=flat" alt="mts76000" /> </p>
+<p target=_blank align="left"> <img src="https://komarev.com/ghpvc/?username=mts76000&label=Profile%20views&color=27333a&style=flat" alt="mts76000" /> </p>
 
 
 - 🌱 I am currently learning the basics
 
 - 📫 How to reach me : **lamottemathis@gmail.com**
 
-- ⚡ My discord : target=_blank **https://discord.gg/jWE7rF7QpA**
+- ⚡ My discord : **https://discord.gg/jWE7rF7QpA**
 
 <p align="center">
     <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
