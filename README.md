@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mts76000&label=Profile%20views&color=27333a&style=flat" alt="mts76000" /> </p>
 
 
-- 🌱 I am currently learning the basics : **the basics**
+- 🌱 I am currently learning the basics
 
 - 📫 How to reach me : **lamottemathis@gmail.com**
 
