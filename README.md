@@ -11,10 +11,10 @@
 
 - ⚡ My discord : **https://discord.gg/jWE7rF7QpA**
 
-- My portfolio : **http://myportfolio.alwaysdata.net/ target="_blank"**
+- My portfolio :<a href="http://myportfolio.alwaysdata.net/" target="_blank" >
 
 <p align="center">
-    <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+    <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">    
 </p>
 
 <br>
