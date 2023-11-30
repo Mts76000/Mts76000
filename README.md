@@ -11,7 +11,7 @@
 
 - ⚡ My discord : **https://discord.gg/jWE7rF7QpA**
 
-- My portfolio **https://mathis-lamotte.com**
+- My portfolio : **https://mathis-lamotte.com**
 
 <p align="center">
     <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">    
