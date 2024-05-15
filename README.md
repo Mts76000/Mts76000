@@ -1,6 +1,5 @@
 
 <h1 align="center">Salut 👋, je suis $Mts_76_</h1>
-<h3 align="center">Un développeur passionné </h3>
 <br>
 <p align="left" >  <img src="https://komarev.com/ghpvc/?username=mts76000&label=Profile%20views&color=27333a&style=flat" alt="mts76000" /> </p>
 
