@@ -8,7 +8,7 @@
   
 - 🔗 Linkedin : **https://www.linkedin.com/in/mathis-lamotte-a386a6264/**
 
-- 📁  Mon portfolio : **https://mathis-lamotte.com**
+- 📁  Mon portfolio : **https://mathis-lamotte.fr**
 
 <p align="center">
     <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">    
