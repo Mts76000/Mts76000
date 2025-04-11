@@ -14,7 +14,6 @@
     <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">    
 </p>
 
-<br>
 
  ### Langues et outils :
 
