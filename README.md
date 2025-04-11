@@ -10,6 +10,8 @@
 
 - 📁  Mon portfolio : **https://mathis-lamotte.fr**
 
+<br>
+
 <p align="center">
     <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">    
 </p>
