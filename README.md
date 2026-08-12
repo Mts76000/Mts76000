@@ -21,9 +21,7 @@
 
 <br>
 
-<p align="center">
-  <img align="right" width="250" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
-</p>
+
 
 ### 🛠️ Langues et outils
 
